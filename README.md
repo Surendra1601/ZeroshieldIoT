@@ -91,7 +91,7 @@ open https://<gateway-ip>:8443
 
 | Threat | Detection Time |
 |---|---|
-| External nmap scan (Kali → IoT) | ~4–7 seconds |
+| External nmap scan (Kali → IoT) | ~2–7 seconds |
 | East-west lateral movement | ~2–4 seconds |
 | Rate limit HARD violation | 1 monitoring cycle (~7s) |
 | New device on network | Next discovery cycle (~24s) |
@@ -240,5 +240,3 @@ DISCOVERY_INTERVAL=3
 - Docker 24+
 - `tcpdump`, `nmap`, `iptables-nft`
 - 512 MB RAM minimum (Raspberry Pi 4 recommended)
-
----

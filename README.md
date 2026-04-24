@@ -5,7 +5,6 @@
 ![Dashboard](https://img.shields.io/badge/Dashboard-React_SPA-c96442?style=flat-square)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI_+_Python-1e4976?style=flat-square)
 ![Network](https://img.shields.io/badge/Network-Docker_+_iptables-2d6a27?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-gray?style=flat-square)
 
 ---
 
@@ -253,7 +252,3 @@ DISCOVERY_INTERVAL=3
 - [ ] ML anomaly detection baseline
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE)

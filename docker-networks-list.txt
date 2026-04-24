@@ -1,0 +1,6 @@
+NETWORK ID     NAME             DRIVER    SCOPE
+448e5996ff75   bridge           bridge    local
+3d6e8da54af6   host             host      local
+44cb28b6b028   iot-lan          bridge    local
+86b5009ca5f5   none             null      local
+20064fe139d5   quarantine-lan   bridge    local

@@ -1,0 +1,26 @@
+# Logs — too large, not needed on new system
+log-controller.txt
+log-ratelimit.txt
+log-alerts.txt
+log-behavior.txt
+log-init.txt
+
+# Backup files
+iptables-legacy-rules.txt
+resolv.conf.bak
+everything.md
+# Python cache
+__pycache__/
+*.pyc
+.env
+*.key
+*.crt
+certs/
+__pycache__/
+myenv/
+*.save
+*.save.*
+*la.py
+device_history.json
+log-*.txt
+auth_config.json

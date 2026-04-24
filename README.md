@@ -242,13 +242,3 @@ DISCOVERY_INTERVAL=3
 - 512 MB RAM minimum (Raspberry Pi 4 recommended)
 
 ---
-
-## Roadmap
-
-- [ ] SQLite migration (structured query over device history)
-- [ ] NAS persistent storage via NFS mount
-- [ ] Per-device connection log (who talked to whom, when)
-- [ ] InfluxDB time-series for 30-day score trends
-- [ ] ML anomaly detection baseline
-
----
